@@ -1,6 +1,6 @@
 # Javascript Frogger Game
 
-In this of Frogger 
+In this Game of Frogger 
 you have to first cross the highway with fast moving cars
 
 after successfully crossing the road
