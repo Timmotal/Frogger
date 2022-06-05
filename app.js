@@ -1,0 +1,1 @@
+const timeLeftDisplay = document.querySelector('#time-left')
