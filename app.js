@@ -10,3 +10,4 @@ const carsRight = document.querySelectorAll('.car-right')
 const reloadButton = document.querySelector('#reload')
 
 let currentIndex = 76 
+const width = 9
