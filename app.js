@@ -13,3 +13,4 @@ let currentIndex = 76
 const width = 9
 let timerId
 let currentTime = 10
+let outcomeTimerId
