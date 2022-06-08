@@ -30,5 +30,9 @@ function moveFrog(e) {
                 case 'ArrowUp':
             if (currentIndex - width >= 0) currentIndex -= width   //console.log('i look up to the Heavens')
             break
+
+            case 'ArrowDown':
+            if (currentIndex + width < width * width) currentIndex += width     //console.log('looking down to see how much ground ')
+            break
     }
 }
