@@ -35,4 +35,5 @@ function moveFrog(e) {
             if (currentIndex + width < width * width) currentIndex += width     //console.log('looking down to see how much ground ')
             break
     }
+    squares[currentIndex].classList.add('frog')
 }
