@@ -22,5 +22,9 @@ function moveFrog(e) {
         case 'ArrowLeft':
            if (currentIndex % width !== 0) currentIndex -= 1// console.log('left 16 years old bruh')
             break
+
+            case 'ArrowRight':
+                if (currentIndex % width < width - 1 ) currentIndex += 1 //console.log('hes got it right, if he aint deluding me')
+                break    
     }
 }
