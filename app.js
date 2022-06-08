@@ -25,6 +25,10 @@ function moveFrog(e) {
 
             case 'ArrowRight':
                 if (currentIndex % width < width - 1 ) currentIndex += 1 //console.log('hes got it right, if he aint deluding me')
-                break    
+                break 
+                
+                case 'ArrowUp':
+            if (currentIndex - width >= 0) currentIndex -= width   //console.log('i look up to the Heavens')
+            break
     }
 }
