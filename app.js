@@ -19,6 +19,8 @@ function moveFrog(e) {
     squares[currentIndex].classList.remove('frog') // this simply looks for 76th div and removes the class
 
     switch(e.key) {
-                 
+        case 'ArrowLeft':
+           if (currentIndex % width !== 0) currentIndex -= 1// console.log('left 16 years old bruh')
+            break
     }
 }
