@@ -18,5 +18,7 @@ let outcomeTimerId
 function moveFrog(e) {
     squares[currentIndex].classList.remove('frog') // this simply looks for 76th div and removes the class
 
-
+    switch(e.key) {
+                 
+    }
 }
