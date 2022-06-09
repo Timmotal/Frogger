@@ -42,3 +42,5 @@ function autoMoveElements() {
     currentTime--
     timeLeftDisplay.textContent = currentTime
 }
+
+in autoMoveElements Function
