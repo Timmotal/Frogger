@@ -47,5 +47,3 @@ function autoMoveElements() {
     carsLeft.forEach(carLeft => moveCarLeft(carLeft))
 
 }
-
-in autoMoveElements Function
