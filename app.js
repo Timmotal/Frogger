@@ -38,4 +38,6 @@ function moveFrog(e) {
     squares[currentIndex].classList.add('frog')
 }
 
-function autoMoveElements() {}
+function autoMoveElements() {
+    currentTime--
+}
