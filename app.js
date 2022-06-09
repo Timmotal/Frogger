@@ -42,6 +42,8 @@ function autoMoveElements() {
     currentTime--
     timeLeftDisplay.textContent = currentTime
     logsLeft.forEach(logLeft => moveLogLeft(logLeft))
+    logsRight.forEach(logRight => moveLogRight(logRight))
+
 }
 
 in autoMoveElements Function
