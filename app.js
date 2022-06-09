@@ -44,6 +44,7 @@ function autoMoveElements() {
     logsLeft.forEach(logLeft => moveLogLeft(logLeft))
     logsRight.forEach(logRight => moveLogRight(logRight))
     carsRight.forEach(carRight => moveCarRight(carRight))
+    carsLeft.forEach(carLeft => moveCarLeft(carLeft))
 
 }
 
