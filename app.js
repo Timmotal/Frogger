@@ -41,6 +41,7 @@ function moveFrog(e) {
 function autoMoveElements() {
     currentTime--
     timeLeftDisplay.textContent = currentTime
+    logsLeft.forEach(logLeft => moveLogLeft(logLeft))
 }
 
 in autoMoveElements Function
