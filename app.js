@@ -40,4 +40,5 @@ function moveFrog(e) {
 
 function autoMoveElements() {
     currentTime--
+    timeLeftDisplay.textContent = currentTime
 }
