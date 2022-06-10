@@ -50,4 +50,5 @@ function autoMoveElements() {
 
 function checkOutcomes () {
     lose()
+    win()
 }
