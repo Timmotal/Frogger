@@ -47,3 +47,5 @@ function autoMoveElements() {
     carsLeft.forEach(carLeft => moveCarLeft(carLeft))
 
 }
+
+function checkOutcomes ()
