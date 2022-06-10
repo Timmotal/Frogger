@@ -48,4 +48,6 @@ function autoMoveElements() {
 
 }
 
-function checkOutcomes () {}
+function checkOutcomes () {
+    lose()
+}
