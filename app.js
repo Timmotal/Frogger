@@ -52,3 +52,5 @@ function checkOutcomes () {
     lose()
     win()
 }
+
+function
