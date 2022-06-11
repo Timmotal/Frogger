@@ -53,4 +53,4 @@ function checkOutcomes () {
     win()
 }
 
-function
+function moveLogLeft
