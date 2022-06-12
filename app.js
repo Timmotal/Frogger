@@ -53,4 +53,6 @@ function checkOutcomes () {
     win()
 }
 
-function moveLogLeft(logLeft) {}
+function moveLogLeft(logLeft) {
+    switch(true)
+}
