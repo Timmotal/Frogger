@@ -54,5 +54,5 @@ function checkOutcomes () {
 }
 
 function moveLogLeft(logLeft) {
-    switch(true)
+    switch(true) {}
 }
