@@ -58,5 +58,7 @@ function moveLogLeft(logLeft) {
         case logLeft.classList.contains('l1'):
             logLeft.classList.remove('l1')
             logLeft.classList.add('l2')
+
+            break
     }
 }
