@@ -120,5 +120,3 @@ function moveLogRight(logRight) {
             break
     }
 }
-
-switch case to moveLogRight
