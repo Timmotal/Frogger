@@ -94,3 +94,5 @@ function moveLogRight(logRight) {
             logRight.classList.add('l5')
     }
 }
+
+switch case to moveLogRight
