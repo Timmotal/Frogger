@@ -86,3 +86,5 @@ function moveLogLeft(logLeft) {
             break
     }
 }
+
+function moveLogRight(logRight) {}
