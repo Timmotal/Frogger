@@ -87,4 +87,6 @@ function moveLogLeft(logLeft) {
     }
 }
 
-function moveLogRight(logRight) {}
+function moveLogRight(logRight) {
+    switch(true) {}
+}
