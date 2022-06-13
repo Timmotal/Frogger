@@ -104,6 +104,8 @@ function moveLogRight(logRight) {
             case logRight.classList.contains('l3'):
             logRight.classList.remove('l3')
             logRight.classList.add('l2')
+
+            break
     }
 }
 
