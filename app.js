@@ -122,5 +122,9 @@ function moveLogRight(logRight) {
 }
 
 function moveCarLeft(carLeft) {
-    switch(true){}
+    switch(true){
+        case carLeft.classList.contains('c1'):
+            carLeft.classList.remove('c1')
+            carLeft.classList.add('c2')
+    }
 }
