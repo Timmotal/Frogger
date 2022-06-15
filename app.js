@@ -132,5 +132,7 @@ function moveCarLeft(carLeft) {
             case carLeft.classList.contains('c2'):
             carLeft.classList.remove('c2')
             carLeft.classList.add('c3')
+
+            break
     }
 }
