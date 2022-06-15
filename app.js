@@ -121,4 +121,6 @@ function moveLogRight(logRight) {
     }
 }
 
-function moveCarLeft(carLeft) {}
+function moveCarLeft(carLeft) {
+    switch{}
+}
