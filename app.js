@@ -120,3 +120,5 @@ function moveLogRight(logRight) {
             break
     }
 }
+
+function moveCarLeft {}
