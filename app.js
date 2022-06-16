@@ -144,5 +144,9 @@ function moveCarLeft(carLeft) {
 }
 
 function moveCarRight(carRight) {
-    switch(true) {}
+    switch(true) {
+        case carRight.classList.contains('c1'):
+            carRight.classList.remove('c1')
+            carRight.classList.add('c3')
+    }
 }
