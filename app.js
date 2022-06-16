@@ -160,5 +160,7 @@ function moveCarRight(carRight) {
             case carRight.classList.contains('c3'):
             carRight.classList.remove('c3')
             carRight.classList.add('c2')
+
+            break
     }
 }
