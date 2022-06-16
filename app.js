@@ -142,3 +142,5 @@ function moveCarLeft(carLeft) {
             break
     }
 }
+
+function moveCarRight {}
