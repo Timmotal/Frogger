@@ -143,4 +143,6 @@ function moveCarLeft(carLeft) {
     }
 }
 
-function moveCarRight(carRight) {}
+function moveCarRight(carRight) {
+    switch {}
+}
