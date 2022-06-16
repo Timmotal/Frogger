@@ -144,5 +144,5 @@ function moveCarLeft(carLeft) {
 }
 
 function moveCarRight(carRight) {
-    switch {}
+    switch(true) {}
 }
