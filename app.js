@@ -170,5 +170,11 @@ function lose() {
             squares[currentIndex].classList.contains('l4') ||
             squares[currentIndex].classList.contains('l5') ||
             currentTime <= 0
-    )
+    ) {
+        resultDisplay.textContent = " the dip no be small"
+        clearInterval(timerId)
+        clearInterval(outcomeTimerId)
+        squares[currentIndex].classList.remove('frog')
+        document.removeEventListener('keyup', moveFrog)
+    }
 }
