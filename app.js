@@ -179,4 +179,6 @@ function lose() {
     }
 }
 
-function win() {}
+function win() {
+    if (    squares[currentIndex].classList.contains('ending-block'))
+}
