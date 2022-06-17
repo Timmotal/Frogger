@@ -171,7 +171,7 @@ function lose() {
             squares[currentIndex].classList.contains('l5') ||
             currentTime <= 0
     ) {
-        resultDisplay.textContent = " the dip no be small"
+        resultDisplay.textContent = " You Lose"
         clearInterval(timerId)
         clearInterval(outcomeTimerId)
         squares[currentIndex].classList.remove('frog')
