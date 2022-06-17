@@ -182,7 +182,7 @@ function lose() {
 function win() {
     if (    squares[currentIndex].classList.contains('ending-block')) {
 
-        resultDisplay.textContent = " IPC TO THe MOON"
+        resultDisplay.textContent = " You Rock!"
         clearInterval(timerId)
         clearInterval(checkOutcomes)
         document.removeEventListener('keyup', moveFrog)
