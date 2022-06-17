@@ -178,3 +178,5 @@ function lose() {
         document.removeEventListener('keyup', moveFrog)
     }
 }
+
+function win() {}
