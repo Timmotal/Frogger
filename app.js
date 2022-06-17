@@ -164,3 +164,5 @@ function moveCarRight(carRight) {
             break
     }
 }
+
+function lose() {}
