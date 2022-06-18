@@ -195,3 +195,4 @@ startPauseButton.addEventListener('click', () => {
         clearInterval(checkOutcomes)
         checkOutcomes = null
         timerId = null 
+        document.removeEventListener('keyup', moveFrog)
