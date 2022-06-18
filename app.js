@@ -193,3 +193,4 @@ startPauseButton.addEventListener('click', () => {
     if (timerId) {
         clearInterval(timerId)
         clearInterval(checkOutcomes)
+        checkOutcomes = null
