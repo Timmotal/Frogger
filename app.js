@@ -188,3 +188,5 @@ function win() {
         document.removeEventListener('keyup', moveFrog)
     }
 }
+
+startPauseButton.addEventListener('click', () => {
