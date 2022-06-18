@@ -190,3 +190,4 @@ function win() {
 }
 
 startPauseButton.addEventListener('click', () => {
+    if (timerId) {
