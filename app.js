@@ -196,3 +196,4 @@ startPauseButton.addEventListener('click', () => {
         checkOutcomes = null
         timerId = null 
         document.removeEventListener('keyup', moveFrog)
+    } else {}
