@@ -199,4 +199,5 @@ startPauseButton.addEventListener('click', () => {
     } else {
         outcomeTimerId = setInterval(checkOutcomes, 10)
         document.addEventListener('keyup', moveFrog)
+        timerId = setInterval(autoMoveElements, 600)
     }
