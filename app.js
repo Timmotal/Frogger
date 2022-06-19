@@ -202,3 +202,5 @@ startPauseButton.addEventListener('click', () => {
         timerId = setInterval(autoMoveElements, 600)
     }
 })
+
+function reload() {
