@@ -206,3 +206,5 @@ startPauseButton.addEventListener('click', () => {
 function reload() {
     reload = location.reload();
 }
+
+reloadButton.addEventListener('click', reload)
