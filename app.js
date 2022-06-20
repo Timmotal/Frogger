@@ -20,7 +20,7 @@ function moveFrog(e) {
 
     switch (e.key) {
         case 'ArrowLeft':
-            if (currentIndex % width !== 0) currentIndex -= 1// console.log('left 16 years old bruh')
+            if (currentIndex % width !== 0) currentIndex -= 1
             break
 
         case 'ArrowRight':
