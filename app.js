@@ -28,7 +28,7 @@ function moveFrog(e) {
             break
 
         case 'ArrowUp':
-            if (currentIndex - width >= 0) currentIndex -= width   //console.log('i look up to the Heavens')
+            if (currentIndex - width >= 0) currentIndex -= width 
             break
 
         case 'ArrowDown':
