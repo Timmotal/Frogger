@@ -32,7 +32,7 @@ function moveFrog(e) {
             break
 
         case 'ArrowDown':
-            if (currentIndex + width < width * width) currentIndex += width     //console.log('looking down to see how much ground ')
+            if (currentIndex + width < width * width) currentIndex += width 
             break
     }
     squares[currentIndex].classList.add('frog')
