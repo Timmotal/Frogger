@@ -16,7 +16,7 @@ let currentTime = 10
 let outcomeTimerId
 
 function moveFrog(e) {
-    squares[currentIndex].classList.remove('frog') // this simply looks for 76th div and removes the class
+    squares[currentIndex].classList.remove('frog')
 
     switch (e.key) {
         case 'ArrowLeft':
