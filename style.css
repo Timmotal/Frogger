@@ -1,3 +1,13 @@
+body {
+    background: repeating-linear-gradient(
+        -45deg,
+        #fff 0px,
+        #fff 10px,
+        #777777 10px,
+        #777777 20px
+    );
+  }
+
 .grid { 
     border: 1px solid brown;
     height: 180px;
