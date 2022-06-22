@@ -6,6 +6,7 @@ body {
         #777777 10px,
         #777777 20px
     );
+    opacity: 0.5;
   }
 
 .grid { 
