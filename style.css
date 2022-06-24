@@ -2,6 +2,12 @@ body {
     background: #FEEFDD;
   }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
+
 .grid { 
     border: 1px solid brown;
     height: 180px;
