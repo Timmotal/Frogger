@@ -48,3 +48,5 @@ body {
 .frog {
     background-color: greenyellow;
 }
+
+@media screen and (max-width: 480px) {}
