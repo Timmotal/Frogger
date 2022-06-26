@@ -11,7 +11,7 @@ body {
 .grid { 
     border: 1px solid brown;
     height: 360px;
-    width: 180px;
+    width: 360px;
     display: flex;
     flex-wrap: wrap;
 }
