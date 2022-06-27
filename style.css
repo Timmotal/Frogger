@@ -58,4 +58,9 @@ body {
         flex-wrap: wrap;
     }
     
+    .grid div {
+        height: 20px;
+        width: 20px;
+    }
+    
 }
