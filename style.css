@@ -50,5 +50,12 @@ body {
 }
 
 @media screen and (max-width: 480px) {
+    .grid {
+        border: 1px solid brown;
+        height: 180px;
+        width: 180px;
+        display: flex;
+        flex-wrap: wrap;
+    }
     
 }
