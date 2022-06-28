@@ -5,6 +5,7 @@ body {
 button {
     padding: .5rem;
     font-size: .9rem;
+    color: darkviolet;
 }  
 
 .container {
