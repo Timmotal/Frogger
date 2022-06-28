@@ -48,6 +48,7 @@ body {
 
 .frog {
     background-color: greenyellow;
+    border-radius: 50%;
 }
 
 @media screen and (max-width: 480px) {
