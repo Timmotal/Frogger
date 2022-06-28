@@ -3,7 +3,8 @@ body {
   }
 
 button {
-    padding: 1.5rem;
+    padding: .5rem;
+    font-size: .9rem;
 }  
 
 .container {
