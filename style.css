@@ -2,11 +2,10 @@ body {
     background: #FEEFDD;
   }
 
-button {
-    padding: .5rem;
-    font-size: .9rem;
-    color: darkviolet;
-}  
+#start-pause-button {
+    background-color: white;
+    
+}
 
 .container {
     display: flex;
