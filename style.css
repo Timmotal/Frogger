@@ -4,8 +4,10 @@ body {
 
 #start-pause-button {
     background-color: white;
-    color: black;    
+    color: black;
     border: 2px solid #4CAF50;
+    padding: 15px 32px;
+    
 }
 
 .container {
