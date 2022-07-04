@@ -89,5 +89,7 @@ body {
         flex-wrap: wrap;
     }
 
-    .grid div {}
+    .grid div {
+        height: 35px;
+    }
 }
