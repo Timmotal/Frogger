@@ -85,7 +85,6 @@ body {
         border: 1px solid brown;
         height: 315px;
         width: 315px;
-        
-        
+        display: flex;
     }
 }
