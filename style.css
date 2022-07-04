@@ -64,7 +64,22 @@ body {
     border-radius: 5px;
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 921px) {
+    .grid {
+        border: 1px solid brown;
+        height: 315px;
+        width: 315px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .grid div {
+        height: 35px;
+        width: 35px;
+    }
+}
+
+@media screen and (max-width: 480px) {
     .grid {
         border: 1px solid brown;
         height: 180px;
@@ -80,17 +95,3 @@ body {
     
 }
 
-@media screen and (max-width: 921px) {
-    .grid {
-        border: 1px solid brown;
-        height: 315px;
-        width: 315px;
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .grid div {
-        height: 35px;
-        width: 35px;
-    }
-}
