@@ -80,4 +80,10 @@ body {
     
 }
 
-@media screen and (max-width: 921px) {}
+@media screen and (max-width: 921px) {
+    .grid {
+        border: 1px solid brown;
+        height: 315px;
+        
+    }
+}
