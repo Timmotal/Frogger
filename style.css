@@ -16,7 +16,9 @@ body {
     background-color: #008CBA;
 }
 
-#reload {}
+#reload {
+    border: none;
+}
 
 .container {
     display: flex;
