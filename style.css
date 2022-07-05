@@ -16,6 +16,8 @@ body {
     background-color: #008CBA;
 }
 
+#start-pause-button {}
+
 .container {
     display: flex;
     align-items: center;
