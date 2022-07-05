@@ -19,6 +19,7 @@ body {
 #reload {
     border: none;
     color: white;
+    padding: 15px 32px;
 }
 
 .container {
