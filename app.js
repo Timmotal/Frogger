@@ -7,7 +7,7 @@ const logsRight = document.querySelectorAll('.log-right')
 const carsLeft = document.querySelectorAll('.car-left')
 const carsRight = document.querySelectorAll('.car-right')
 
-const reloadButton = document.querySelector('#reload')
+const reloadButton = document.querySelector('#reloadBtn')
 
 let currentIndex = 76
 const width = 9
