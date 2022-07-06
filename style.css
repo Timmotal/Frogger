@@ -16,7 +16,7 @@ body {
     background-color: #008CBA;
 }
 
-#reload {
+#reloadBtn {
     border: none;
     color: white;
     padding: 15px 32px;
