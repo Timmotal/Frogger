@@ -106,6 +106,19 @@ body {
         height: 20px;
         width: 20px;
     }
+
+    #start-pauseBtn {
+        background-color: hsl(210deg, 38%, 15%);
+        color:  #F2F5F7;
+        border: .125rem solid #F2F5F7;
+        padding: .938rem 2rem;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1rem;
+        margin: .25rem .125rem;
+        cursor: pointer;
+    }
     
 }
 
