@@ -108,7 +108,7 @@ body {
     }
 
     #start-pauseBtn {
-        background-color: hsl(210deg, 38%, 15%);
+        background-color: #4CAF50;
         color:  #F2F5F7;
         border-radius: 0.2rem #F2F5F7;
         padding: 0.25rem 0.5rem;
@@ -118,6 +118,20 @@ body {
         font-size: 0.875rem;
         margin: .25rem .125rem;
         cursor: pointer;
+    }
+
+    #reloadBtn {
+        border: none;
+        background-color: #e7e7e7;
+         color: black;
+         padding: .938rem 2rem;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1rem;
+        margin: .25rem .125rem;
+        cursor: pointer;
+        
     }
     
 }
