@@ -122,6 +122,7 @@ body {
 
         #reloadBtn {
             border: none;
+            border-radius: 0.2rem;
             background-color: #33363D;
             color:  #F2F5F7;
             padding: 0.25rem 0.5rem;
