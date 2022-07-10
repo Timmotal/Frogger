@@ -121,7 +121,6 @@ body {
     }
 
         #reloadBtn {
-            border: none;
             border-radius: 0.2rem;
             background-color: #33363D;
             color:  #F2F5F7;
@@ -132,7 +131,6 @@ body {
             font-size: 0.875rem;
             margin: .25rem .125rem;
             cursor: pointer;
-    
         }
     
 }
