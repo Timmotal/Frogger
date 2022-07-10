@@ -109,7 +109,7 @@ body {
 
     #start-pauseBtn {
         background-color: #4CAF50;
-        color:  #F2F5F7;
+        color: #F2F5F7;
         border-radius: 0.2rem;
         padding: 0.25rem 0.5rem;
         text-align: center;
@@ -128,7 +128,7 @@ body {
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            font-size: 1rem;
+            font-size: 0.875rem;
             margin: .25rem .125rem;
             cursor: pointer;
     
