@@ -91,6 +91,19 @@ body {
         height: 30px;
         width: 30px;
     }
+
+    #start-pauseBtn {
+        background-color: #4CAF50;
+        color: #F2F5F7;
+        border-radius: 0.2rem;
+        padding: 1rem 1rem;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: .875rem;
+        margin: .25rem .125rem;
+        cursor: pointer;
+    }
 }
 
 @media screen and (max-width: 480px) {
