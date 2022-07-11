@@ -82,7 +82,7 @@ body {
     .grid {
         border: 1px solid brown;
         height: 270px;
-        width: 315px;
+        width: 270px;
         display: flex;
         flex-wrap: wrap;
     }
