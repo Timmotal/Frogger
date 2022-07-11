@@ -104,6 +104,19 @@ body {
         margin: .25rem .125rem;
         cursor: pointer;
     }
+
+    #reloadBtn {
+        border-radius: .2rem;
+        background-color: #33363D;
+        color:  #F2F5F7;
+        padding: 1rem 1rem;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: .875rem;
+        margin: .25rem .125rem;
+        cursor: pointer;
+    }
 }
 
 @media screen and (max-width: 480px) {
