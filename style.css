@@ -33,6 +33,10 @@ body {
     margin: 0 .2rem;
 }
 
+#result {
+    
+}
+
 .container {
     display: flex;
     align-items: center;
