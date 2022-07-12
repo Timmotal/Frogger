@@ -29,6 +29,10 @@ body {
     
 }
 
+#time-left {
+    margin-right: 0 .3rem;
+}
+
 .container {
     display: flex;
     align-items: center;
