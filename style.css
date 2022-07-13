@@ -18,6 +18,7 @@ body {
 
 #reloadBtn {
     border: none;
+    border-radius: .2rem;
     background-color: #33363D;
     color:  #F2F5F7;
      padding: .938rem 2rem;
