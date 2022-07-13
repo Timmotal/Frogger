@@ -6,6 +6,7 @@ body {
     background-color: #4CAF50;
     color:  white;
     border: .125rem solid #4CAF50;
+    border-radius: .2rem;
     padding: .938rem 2rem;
     text-align: center;
     text-decoration: none;
