@@ -45,7 +45,8 @@ body {
     justify-content: center;
 } 
 
-h2 {background: blue url("/DEPENDENCIES/images/G.\ Forest\ Brush\ –\ The\ indian\ and\ the\ lily\,\ 1887.jpg");
+h2 {
+    background: white url("../DEPENDENCIES/images/logan-weaver-lgnwvr-aMF5Sl-a9zI-unsplash.jpg");
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
