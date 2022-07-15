@@ -47,6 +47,7 @@ body {
 
 h2 {background: blue url("/DEPENDENCIES/images/G.\ Forest\ Brush\ –\ The\ indian\ and\ the\ lily\,\ 1887.jpg");
     background-clip: text;
+    -webkit-background-clip: text;
 }
 
 .container {
