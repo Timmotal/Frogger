@@ -41,6 +41,7 @@ body {
 
 .text-container {
     display: flex;
+    gap: 2rem;
 } 
 
 .container {
