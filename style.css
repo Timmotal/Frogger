@@ -1,6 +1,14 @@
 body {
     background: #FEEFDD;
   }
+  #demo-text {
+	font-size: 80px;
+	font-weight: 700;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	background-image: url('../DEPENDENCIES/images/nikhil-mistry-4ehR0fmrKDQ-unsplash.jpg');
+}
 
 #start-pauseBtn {
     background-color: #4CAF50;
@@ -46,15 +54,16 @@ body {
 } 
 
 h2 {
-        background: blue url("../DEPENDENCIES/images/Ancient_game.jpg");
-        -webkit-background-clip: text;
-        background-clip: text;
-        background-image: url('image.jpg');
-        color: transparent;
-        justify-content: center;
-        display: flex;
-        align-items: center;
-    }
+    font-size: 80px;
+    font-weight: 700;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url('../DEPENDENCIES/images/nikhil-mistry-4ehR0fmrKDQ-unsplash.jpg');
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
 
 .container {
     display: flex;
