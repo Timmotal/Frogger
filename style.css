@@ -51,6 +51,7 @@ h2 {
         background-clip: text;
         background-image: url('image.jpg');
         color: transparent;
+        justify-content: center;
     }
 
 .container {
