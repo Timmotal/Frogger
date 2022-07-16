@@ -52,6 +52,8 @@ h2 {
         background-image: url('image.jpg');
         color: transparent;
         justify-content: center;
+        display: flex;
+        align-items: center;
     }
 
 .container {
