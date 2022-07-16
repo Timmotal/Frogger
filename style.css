@@ -46,11 +46,11 @@ body {
 } 
 
 h2 {
-    background: white url("../DEPENDENCIES/images/logan-weaver-lgnwvr-aMF5Sl-a9zI-unsplash.jpg");
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
+     background: white url("../DEPENDENCIES/images/logan-weaver-lgnwvr-aMF5Sl-a9zI-unsplash.jpg");
+     background-repeat: repeat;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+ }
 
 .container {
     display: flex;
