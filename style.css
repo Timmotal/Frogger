@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Fruktur&display=swap');
 
 body {
     background: #FEEFDD;
@@ -31,6 +31,10 @@ body {
     margin: .5rem .125rem;
     cursor: pointer;
     
+}
+
+.game-title{
+    font-family: Edu VIC WA NT Beginner;
 }
 
 #time-left {
