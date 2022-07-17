@@ -34,9 +34,9 @@ body {
 }
 
 .game-title {
-    font-family: 'Edu VIC WA NT Beginner', cursive;
-    font-family: 'Fruktur', cursive;
+    margin-top: -1px;
     font-family: 'Rubik Moonrocks', cursive;
+    font-size: 60px;
 }
 
 #time-left {
@@ -162,6 +162,13 @@ h2 {
 }
 
 @media screen and (max-width: 480px) {
+
+    .top-title {
+        font-size: 14px;
+        font-family: 'Rubik Moonrocks', cursive;
+        color: #33363D;
+    }
+
     .grid {
         border: 1px solid brown;
         height: 180px;
