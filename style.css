@@ -33,6 +33,12 @@ body {
     
 }
 
+.top-title {
+    font-size: 38px;
+    font-family: 'Rubik Moonrocks', cursive;
+    color: #33363D;
+}
+
 .game-title {
     margin-top: -1px;
     font-family: 'Rubik Moonrocks', cursive;
@@ -116,10 +122,14 @@ h2 {
 
 @media screen and (max-width: 921px) {
 
+    .top-title {
+            font-size: 22px;
+            font-family: 'Rubik Moonrocks', cursive;
+            color: #33363D;
+        }
+
     .game-title {
         font-size: 50px;
-        font-family: 'Rubik Moonrocks', cursive;
-        color: #33363D;
     }
     
     .grid {
