@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Fruktur&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Fruktur&family=Rubik+Moonrocks&display=swap');
 
 body {
     background: #FEEFDD;
@@ -33,8 +33,10 @@ body {
     
 }
 
-.game-title{
-    font-family: Fruktur;
+.game-title {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Fruktur', cursive;
+    font-family: 'Rubik Moonrocks', cursive;
 }
 
 #time-left {
