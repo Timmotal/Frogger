@@ -34,7 +34,8 @@ body {
 }
 
 .top-title {
-    font-size: 38px;
+    margin-top: rem;
+    font-size: 30px;
     font-family: 'Rubik Moonrocks', cursive;
     color: #33363D;
 }
